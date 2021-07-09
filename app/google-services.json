@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416453068871",
+    "project_id": "magicforum-a017c",
+    "storage_bucket": "magicforum-a017c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416453068871:android:b8193d41241a3ce60f0962",
+        "android_client_info": {
+          "package_name": "com.example.magicforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416453068871-jeqejfe3mmf9nfrv8viatdlu2jc160p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLszprDp6uDlnGh_jYgqNZM03DVWoYQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416453068871-jeqejfe3mmf9nfrv8viatdlu2jc160p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
